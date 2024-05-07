@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    /* background-color: rgb(73,120,111); */
+}
+
+.box2{
+    height: 200px;
+    width: 400px;
+    border:2px solid black;
+    margin: 20px auto;
+}
+
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 1px solid black;
+}
